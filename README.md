@@ -1,6 +1,6 @@
 # Gossip App
 
-This project simple chatting application with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple chatting application with [Create React App](https://github.com/facebook/create-react-app) and [react-chat-engine](https://chatengine.io/)
 
 ### Website: [Gossip App](https://gossip-app-react.netlify.app/)
 
